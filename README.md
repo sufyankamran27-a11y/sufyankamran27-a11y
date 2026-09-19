@@ -1,11 +1,12 @@
-<!-- 🌈 COLORFUL GLOWING HEADER BANNER -->
+<!-- 🌈 ULTRA COLORFUL GLOWING HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4,8,12&height=120&section=header&text=Sheikh%20Muhammad%20Sufyan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20&%20MERN%20Stack%20Learner%20🚀&descSize=16&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4,8,12&height=130&section=header&text=Sheikh%20Muhammad%20Sufyan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20Learner%20🚀&descSize=16&descAlignY=65" width="100%" />
 </p>
 
-<!-- ✨ WORKING TYPING ANIMATION -->
+<!-- 🔥 STYLISH BADGES BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=⚡+Turning+Coffee+Into+Code+!;💻+Learning+React,+Node+&+MongoDB+!;🚀+Building+Amazing+Web%20Apps+!;✨+Never+Stop+Learning+!" alt="Typing Animation" />
+  <img src="https://img.shields.io/badge/⚡_TURNING_CODE_INTO_REALITY-FF007F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_MERN_STACK_LEARNER-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 <!-- 👁️ VISITOR COUNTER -->
@@ -18,12 +19,12 @@
 ### 💖 About Me & My Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Passionate%20Learner-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-ff007f?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-PASSIONATE_STUDENT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-REACT_&_NODE.JS-ff6600?style=for-the-badge" />
 </p>
 
-- ✨ **Who am I?** A passionate web development student building modern and responsive web applications.
-- 🎯 **Current Focus:** Mastering **React.js, Redux, Node.js, Express, and MongoDB**.
+- ✨ **Who am I?** A passionate web development student building modern, colorful, and responsive web applications.
+- 🎯 **Current Focus:** Mastering **React.js, Redux, Node.js, Express, and MongoDB** with full dedication.
 - 💡 **Philosophy:** Clean code, vibrant UI, and continuous learning every single day!
 
 ---
