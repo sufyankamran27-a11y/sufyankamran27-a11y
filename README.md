@@ -1,21 +1,34 @@
-# <h1 align="center">⚡ Hey there, I'm Sheikh Muhammad Sufyan! 🚀</h1>
-
+<!-- 🌈 COLORFUL GLOWING HEADER BANNER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20Learner-ff007f?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4,8,12&height=120&section=header&text=Sheikh%20Muhammad%20Sufyan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20&%20MERN%20Stack%20Learner%20🚀&descSize=16&descAlignY=65" width="100%" />
+</p>
+
+<!-- ✨ WORKING TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=⚡+Turning+Coffee+Into+Code+!;💻+Learning+React,+Node+&+MongoDB+!;🚀+Building+Amazing+Web%20Apps+!;✨+Never+Stop+Learning+!" alt="Typing Animation" />
+</p>
+
+<!-- 👁️ VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sufyankamran27-a11y&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS&cacheSeconds=60" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💖 About Me & My Journey
 
-* ✨ **Who am I?** A passionate web development student building modern and responsive web applications.
-* 🎯 **Current Focus:** Mastering **React.js, Redux, Node.js, Express, and MongoDB**.
-* 💡 **Goal:** To become a top-tier Full-Stack Developer.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Passionate%20Learner-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-ff007f?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+- ✨ **Who am I?** A passionate web development student building modern and responsive web applications.
+- 🎯 **Current Focus:** Mastering **React.js, Redux, Node.js, Express, and MongoDB**.
+- 💡 **Philosophy:** Clean code, vibrant UI, and continuous learning every single day!
 
 ---
 
-### 🎨 Super Colorful Tech Stack
+### 🎨 Super Colorful Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,42 +48,48 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 Colorful GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufyankamran27-a11y&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankamran27-a11y&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sufyankamran27-a11y&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankamran27-a11y&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff007f" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyankamran27-a11y&theme=radical&hide_border=true&background=0D1117&fire=ff007f&sideLabels=true" width="98%" />
 </p>
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Projects Showcase
 
-> ### 📝 1. Todo Web App
-> * **Description:** Single Page Todo App with real-time data persistence.
-> * **Tech Stack:** React.js, Ant Design, Firebase Firestore.
-> * **Links:** [Live Demo](#) | [GitHub Repository](#)
-
-> ### 🔐 2. Secure Auth System
-> * **Description:** User login, signup, and protected route dashboard.
-> * **Tech Stack:** React.js, Firebase Auth, Tailwind CSS.
-> * **Links:** [Live Demo](#) | [GitHub Repository](#)
-
-> ### 🌐 3. Personal Portfolio
-> * **Description:** Responsive portfolio showcasing skills and projects.
-> * **Tech Stack:** HTML5, CSS3, JavaScript, Tailwind CSS.
-> * **Links:** [Live Demo](#) | [GitHub Repository](#)
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **📝 Todo Web App** | Responsive single-page task manager with real-time database. | `React` `Ant Design` `Firebase` | [Live Demo](#) • [Code](#) |
+| **🔐 Auth System** | Secure login, signup, and protected dashboard routing. | `React` `Tailwind` `Firebase Auth` | [Live Demo](#) • [Code](#) |
+| **🎨 Personal Portfolio** | Custom designed portfolio with interactive animations. | `HTML` `CSS` `JavaScript` | [Live Demo](#) • [Code](#) |
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Let's Connect & Build Together
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sufyankamran27-a11y">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- 🌊 COLORFUL FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4,8,12&height=100&section=footer" width="100%" />
 </p>
