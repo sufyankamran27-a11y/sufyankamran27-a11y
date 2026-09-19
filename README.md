@@ -3,14 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,4,8,12&height=120&section=header&text=Sheikh%20Muhammad%20Sufyan&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20&%20MERN%20Stack%20Learner%20🚀&descSize=16&descAlignY=65" width="100%" />
 </p>
 
-<!-- 🌈 Dynamic Typing Effect -->
+<!-- 🌈 Dynamic Typing Effect (Fixed) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF007F&center=true&vCenter=true&width=750&height=60&lines=⚡+Turning+Coffee+Into+Code+!;💻+Learning+React,+Node+&+MongoDB+!;🚀+Building+The+Future+Of+Web+!;✨+Never+Stop+Learning+!" alt="Typing SVG" />
 </p>
 
+<!-- 👁️ Visitor Count (Fixed Link) -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff007f&style=for-the-badge&label=VISITORS&cacheSeconds=60" alt="Profile Views" />
+  <a href="https://github.com/sufyankamran27-a11y">
+    <img src="https://komarev.com/ghpvc/?username=sufyankamran27-a11y&color=ff007f&style=for-the-badge&label=VISITORS&cacheSeconds=60" alt="Profile Views" />
   </a>
 </p>
 
@@ -39,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=7" alt="Tech Stack Icons" />
 </p>
 
-<!-- 🔥 Fancy Badges Grid -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,12 +58,12 @@
 ### 📊 Colorful GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff007f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sufyankamran27-a11y&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankamran27-a11y&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff007f" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&fire=ff007f&sideLabels=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyankamran27-a11y&theme=radical&hide_border=true&background=0D1117&fire=ff007f&sideLabels=true" width="98%" />
 </p>
 
 ---
@@ -102,14 +102,13 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sufyankamran27-a11y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🌊 Colorful Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4,8,12&height=100&section=footer" width="100%" />
 </p>
