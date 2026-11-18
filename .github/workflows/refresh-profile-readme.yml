@@ -1,0 +1,55 @@
+name: Refresh profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update last refresh timestamp
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import re
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          updated, count = re.subn(
+              r"<!-- README_AUTO_REFRESH_UTC: .*? -->",
+              f"<!-- README_AUTO_REFRESH_UTC: {timestamp} -->",
+              content,
+              count=1,
+          )
+          if count != 1:
+              raise SystemExit("README refresh marker was not found exactly once")
+          readme.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit and push README refresh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile README timestamp"
+          git push
